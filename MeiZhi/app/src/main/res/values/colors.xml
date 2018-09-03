@@ -3,4 +3,13 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorTabText">#fff</color>
+    <color name="colorTabTextSecond">#c7ffffff</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorPrimaryTextSecond">#c7212121</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorDivider">#B6B6B6</color>
+    <!--fragment背景-->
+    <color name="fragment_background">#F3F3F3</color>
+    <color name="color_translucent_white">#88FFFFFF</color>
 </resources>

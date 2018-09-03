@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--顶部栏table-->
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://shemas.android.com/apk/res/android"
+    xmlns:app="http://shemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:fitsSystemWindows="true"
+    android:minHeight="?attr/actionBarSize"
+    android:them="@style/ThemOverlay.AppCompat.Dark.ActionBar"
+    app:popupThem="@style/ThemOverlay.AppComapt.Light"
+    app:titleTextColor="@color/colorTabText" />
